@@ -64,7 +64,7 @@ Add Vercel URL here
 
 ## 👨‍💻 Author
 
-Madhav Karra
+Priya Kongara
 
 B.Tech Student | Aspiring Software Engineer
 
